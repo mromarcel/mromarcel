@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Digital Bank 
+- 🔭 I’m currently working for a Digital Bank 
 - 🌱 I’m currently learning Big Data in K8s
 
 <div align="center">
